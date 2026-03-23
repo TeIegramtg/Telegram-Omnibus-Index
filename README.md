@@ -11,7 +11,7 @@
 ## 📂 快速导航 (Table of Contents)
 
 
-| 🟢 [生产力与技术](#-生产力与技术) | 🔵 [数字化生存](#-数字化生存) | 🟡 [创意与生活](#-创意与生活) |
+| 🟢 [中文电报导航机器人](https://t.me/sohu1234bot) | 🔵 [数字化生存](#-数字化生存) | 🟡 [创意与生活](#-创意与生活) |
 | :--- | :--- | :--- |
 | [AI中文导航机器人](https://t.me/sohu1234bot) | [虚拟币](https://t.me/HTX_Chineseofficial) | [聊天群](https://t.me/jfoisjfiodvfd) |
 | [吃瓜频道](https://t.me/DNYBGOO) | [VPn 与网络优化](https://t.me/ripaojiedian) | [查u机器人](https://t.me/AUBot) |
