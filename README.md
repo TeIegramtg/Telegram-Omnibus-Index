@@ -39,9 +39,8 @@
     🔗 [点击订阅](https://t.me/PJAPKVPN)
 *   **[高速免费vpv2]** - 
     🔗 [点击订阅](https://t.me/ripaojiedian)
-*   **[超快免费vpn3]** 
-    🔗 [点击订阅]{https://t.me/lxdbo1)
-*   **[永久免费vpn4]** 
+*  
+*   **[永久免费vpn3]** 
     🔗 [点击订阅](https://t.me/cgqzxw)
 
 ---
