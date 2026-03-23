@@ -37,12 +37,12 @@
 
 *   **[高速免费vpn1]**  
     🔗 [点击订阅](https://t.me/PJAPKVPN)
-*   **[小众软件 Appinn]** - 发现各种新奇、好用的效率工具。  
-    🔗 [点击订阅](https://t.me)
-*   **[Docker 容器化生活]** - 专注 Self-hosted 方案，教你用 Docker 跑起一切。  
-    🔗 [点击订阅](https://t.me)
-*   **[正版限免频道]** - 实时监控全平台（iOS/Android/PC）的限免软件。  
-    🔗 [点击订阅](https://t.me)
+*   **[高速免费vpv2]** - 
+    🔗 [点击订阅](https://t.me/ripaojiedian)
+*   **[超快免费vpn3]** 
+    🔗 [点击订阅]{https://t.me/lxdbo1)
+*   **[永久免费vpn4]** 
+    🔗 [点击订阅](https://t.me/cgqzxw)
 
 ---
 
