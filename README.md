@@ -24,11 +24,11 @@
 *追踪 LLM、提示词工程与自动化工具。*
 
 *   **[AI 进化论]** - 每日追踪 OpenAI、Claude 及 Midjourney 动态。  
-    🔗 [点击订阅](https://t.me)
+    🔗 [点击订阅](https://t.me/sundefx)
 *   **[ChatGPT 指南]** - 专注 Prompt 提示词优化与 GPT 插件分享。  
-    🔗 [点击订阅](https://t.me)
-*   **[GitHub 趋势早报]** - 自动推送当日 GitHub 热门 AI 项目。  
-    🔗 [点击订阅](https://t.me)
+    🔗 [点击订阅](https://t.me/dwsdwedwq232)
+*   **[[GitHub]( 趋势早报]** - 自动推送当日 GitHub 热门 AI 项目。  
+    🔗 [点击订阅](https://t.me/gj998/3823)
 
 ---
 
