@@ -15,8 +15,8 @@
 
 | 🟢 [生产力与技术](#-生产力与技术) | 🔵 [数字化生存](#-数字化生存) | 🟡 [创意与生活](#-创意与生活) |
 | :--- | :--- | :--- |
-| [AI & 机器人](https://t.me/sohu1234bot) | [流媒体与白嫖](#-流媒体与白嫖) | [设计与摄影](#-设计与美学) |
-| [开源软件库](#-开源软件库) | [VPS 与网络优化](#-vps-与网络优化) | [独立游戏/ACG](#-独立游戏acg) |
+| [AI & 机器人](https://t.me/sohu1234bot) | [虚拟币](https://t.me/HTX_Chineseofficial) | [聊天群](https://t.me/jfoisjfiodvfd) |
+| [吃瓜频道](https://t.me/DNYBGOO) | [VPn 与网络优化](https://t.me/ripaojiedian) | [查u](https://t.me/AUBot) |
 
 ---
 
