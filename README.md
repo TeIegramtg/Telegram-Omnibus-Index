@@ -2,9 +2,7 @@
 🚀 2026 精选 Telegram 频道与群组索引 (1000+ 计划) | 涵盖 AI、技术、数字化生存、流媒体与生活美学。拒绝过载，只看精品。实时更新，欢迎 PR 贡献！
 # 🚀 Telegram 全球优质资源万向索引 (1000+ 精选计划)
 
-[[Static Badge](https://img.shields.io)](https://github.com)
-[[Static Badge](https://img.shields.io)](https://github.com)
-[Static Badge](https://img.shields.io)](https://t.me)
+
 
 > **💡 简介：** 这是一个拒绝信息过载、专注高质量内容的 Telegram 资源导航库。目标是收录 1000 个涵盖 AI 前沿、开源工具、数字化生存及生活美学的优质频道与群组。
 
