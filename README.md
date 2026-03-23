@@ -18,7 +18,7 @@
 
 ---
 
-## 🤖 AI 实验室 (AI & Future)
+## 🤖电报 AI 实验室 (AI & Future)
 *追踪 LLM、提示词工程与自动化工具。*
 
 *   **[AI 进化论]** - 每日追踪 OpenAI、Claude 及 Midjourney 动态。  
